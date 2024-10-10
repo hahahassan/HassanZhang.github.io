@@ -1,5 +1,5 @@
 ## Profile
-An energetic, self-motivated learner eager to take on new challenges. A collaborative and resilient problem solver with strengths in critical thinking, communication, and organization. Passionate about Data Science with experience in SQL and Python for managing large datasets.
+An energetic and self-motivated data analyst eager to take on new challenges. A collaborative and resilient problem solver with strong skills in critical thinking, communication, and organization. Passionate about Data Science, with hands-on experience in SQL and Python for managing and analyzing large datasets. Three years of experience at JD.com, the second-largest e-commerce company in China, developed a strong foundation in data analysis within a fast-paced and dynamic environment.
 
 ---
 
